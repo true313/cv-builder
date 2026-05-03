@@ -1,0 +1,2 @@
+# Temporary ignore conflicting route
+src/app/api/admin/payment/[orderId]/

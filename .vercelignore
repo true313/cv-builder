@@ -1,0 +1,2 @@
+# Ignore conflicting route parameter directory
+src/app/api/admin/payment/[orderId]/**
